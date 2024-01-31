@@ -1,0 +1,14 @@
+#credits{
+    font-size: 1.5em;
+    margin: 20px;
+}
+
+main{
+    background-color: ivory; 
+    border:5px solid; 
+    border-width: 5px; 
+    border-radius: 15px;
+    margin-top: 15px;
+    width: auto;
+    height: auto;
+}

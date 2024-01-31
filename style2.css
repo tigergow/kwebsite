@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: lightblue;
+    border:5px solid; 
+    border-width: 5px; 
+    border-radius: 15px;
+    text-align: center;
+    padding: 140px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.navbar{
+   height: 50px;
+}
+
+footer{
+    display: block;
+    clear: both;
+    background-color: hsl(0, 1%, 17%);
+    text-align: center;
+    padding: 25px;
+}

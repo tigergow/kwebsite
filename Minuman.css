@@ -1,0 +1,36 @@
+main{
+    background-color: ivory; 
+    border:5px solid; 
+    border-width: 5px; 
+    border-radius: 15px;
+    margin-top: 15px;
+    width: auto;
+    height: auto;
+}
+
+#minuman{
+  margin: 20px;
+  
+}
+
+.gallery{
+    display: inline-block;
+    border: 5px solid hsl(0, 0%, 60%);
+    margin: 70px ;
+    width: 200px;
+    background-color: white;
+}
+
+.gallery .description{
+    padding: 10px;
+    text-align: center;
+}
+
+.gallery:hover{
+    border: 6px solid hsl(0, 0%, 20%);
+}
+
+.gallery img{
+    width: 100%;
+    height: auto;
+}

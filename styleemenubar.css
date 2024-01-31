@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background: #fff;
+    padding: 0px;
+    margin-top: 5px;
+    overflow: hidden;
+    border-radius: 50px;
+    box-shadow: 0 25px 20px -20px rgba(0,0,0,0.4);
+}
+
+.navbar a{
+    color: black;
+    background: #fff;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: black;
+    color: white;
+}
+
+.navbar li{
+    float: left;
+}
+
+#feedback{
+    float: right;
+}
